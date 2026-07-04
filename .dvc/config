@@ -1,0 +1,4 @@
+[core]
+    remote = monremote
+['remote "monremote"']
+    url = C:\Users\bensa\Documents\dvc_storage
